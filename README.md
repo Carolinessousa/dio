@@ -1,2 +1,4 @@
-# dio[Mind Map . User Story . Fluxogramas.pdf](https://github.com/Carolinessousa/dio/files/9946548/Mind.Map.User.Story.Fluxogramas.pdf)
-[User stories.pdf](https://github.com/Carolinessousa/dio/files/9946549/User.stories.pdf)
+Desafio: O Dia a Dia de um QA
+
+Sejam bem vindos ao Desafio : O dia a dia de um QA
+
